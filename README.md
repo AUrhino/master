@@ -7,8 +7,9 @@
 ### More Info
 
 
-Hi, I'm Ryan, aka rhino.
-I'm a Linux administrator in Sydney, Australia.
+Hi, I'm Ryan, (aka rhino)
+Working as a Linux & Windows administrator in Sydney, Australia.
+Jack of all trades and master of none :P
 
 For more details about me, please visit: https://www.ryangillan.com/
 
